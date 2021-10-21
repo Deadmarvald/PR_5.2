@@ -1,0 +1,3 @@
+﻿  UT5.2.cpp
+D:\Student\Volvenko Ivan IT-12\AP\PR5.2\UT5.2\UT5.2.cpp(16,14): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  UT5.2.vcxproj -> D:\Student\Volvenko Ivan IT-12\AP\PR5.2\Debug\UT5.2.dll
